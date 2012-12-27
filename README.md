@@ -12,7 +12,7 @@ Every game has a limited time (defaults to one minute), so hurry up and beat the
 
 Game score history is saved across games.
 
-**No database required** (this is just a quick demo)
+**No database required** (this is just a quick demo at http://jsfiddle.net/wptc/7yqXd/embedded/result/)
 
 Enjoy!
 
